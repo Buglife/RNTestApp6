@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/node_modules/react-native-buglife/ios/RNBuglife.m \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/node_modules/react-native-buglife/ios/RNBuglife.h \
+  ../../react-native/React/Modules/RCTEventEmitter.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/node_modules/react-native-buglife/ios/Buglife-iOS/Source/Buglife.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/node_modules/react-native-buglife/ios/Buglife-iOS/Source/LIFEAppearance.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/node_modules/react-native-buglife/ios/Buglife-iOS/Source/LIFEAwesomeLogger.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/node_modules/react-native-buglife/ios/Buglife-iOS/Source/LIFEInputField.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/node_modules/react-native-buglife/ios/Buglife-iOS/Source/LIFETextInputField.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/node_modules/react-native-buglife/ios/Buglife-iOS/Source/LIFEPickerInputField.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/node_modules/react-native-buglife/ios/Buglife-iOS/Source/Buglife+LocalizedStrings.h \
+  ../../react-native/React/Base/RCTConvert.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/danielhd/Developer/Buglife/RNTestApp6/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  ../../react-native/React/Base/RCTEventDispatcher.h \
+  ../../react-native/React/Base/RCTModuleData.h
