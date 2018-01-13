@@ -28,5 +28,9 @@ allprojects {
             url 'https://maven.google.com/'
             name 'Google'
         }
+        flatDir {
+            dirs 'aars'
+            dirs '/Users/schukin/src/react-native-buglife/android/aars'
+        }
     }
 }
